@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895114349286",
+    "project_id": "bird-repeller",
+    "storage_bucket": "bird-repeller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895114349286:android:fe2f6df787b391192b8927",
+        "android_client_info": {
+          "package_name": "com.example.wildfree_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofQ6rg1_9ikYSHPx1uI_9QcK5RkeQ1QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
